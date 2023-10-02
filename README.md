@@ -12,7 +12,7 @@ The aim of this project is to use a Question Answering model to compare two (or 
 Narrative QA dataset [^1]
 
 ## Language, libraries and frameworks
-Python, pytorch, Hugging Face Transformers, spaCy, 
+Python, pytorch, Hugging Face Transformers, spaCy
 
 ## Models and summarization tools
 BM25Okapi, PreTrainedTokenizer, T5ForConditionalGeneration, SBertSummarizer, GPT2 Transformer
